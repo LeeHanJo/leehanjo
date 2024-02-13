@@ -41,6 +41,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHanJo)](https://github.com/anuraghazra/anuraghazra.github.io)
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ### NOTE : This repo is archived until the end of Hacktoberfest
 
 First chioce for readme tamplets profile : 

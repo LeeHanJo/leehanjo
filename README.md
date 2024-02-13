@@ -2,7 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHanJo)](https://github.com/anuraghazra/anuraghazra.github.io)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHanJo)](https://github.com/anuraghazra/stargazer)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHanJo)](https://https://github.com/othneildrew/Best-README-Template/commit/3552467eeb3e386bfc592218e2e75557990d2289?short_path=ece6817)
 
 ### NOTE : This repo is archived until the end of Hacktoberfest
 
